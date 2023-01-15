@@ -1,6 +1,6 @@
 # senior_project_app
 
-A new Flutter project.
+An application developed to controll a medical machine implemented with Arduino as a senior graduation project.
 
 ## Getting Started
 
